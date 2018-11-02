@@ -1,0 +1,4 @@
+flask
+requests
+simplejson
+flask_jsonpify
